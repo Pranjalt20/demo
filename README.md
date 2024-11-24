@@ -1,3 +1,3 @@
 # demo
-just a demo
-author-<br>pranjal tiwari
+just a demo<br>
+author-pranjal tiwari
